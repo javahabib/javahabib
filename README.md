@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&pause=50&color=008080&center=true&vCenter=true&multiline=true&width=1400&height=200&lines=Hello+🌸!!+I+am+Javaria;A+final+year+student+in+Computer+Science;Passionate+about+technology+and+DevOps!" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&pause=50&color=008080&center=true&vCenter=true&multiline=true&width=1400&height=200&lines=Hello+🌸!!+I+am+Javaria;A+final+year+student+in+Computer+Science;Passionate+about+technology+and+problem+solving!" width="100%" />
 
 🌟 Welcome to my GitHub profile!  
 🔭 I’m a **Computer Science Final Year Student**, working on **DevOps Tools**, **AWS**, and my **Final Year Project**.  
