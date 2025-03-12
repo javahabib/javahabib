@@ -2,8 +2,8 @@
 
 🌟 Welcome to my GitHub profile!  
 🔭 I’m a **Computer Science Final Year Student**, working on **DevOps Tools**, **AWS**, and my **Final Year Project**.  
-🌱 Currently, I’m diving deep into **Cloud Technologies**, **DevOps**, and **YOLO models**.  
-👯 I’m eager to collaborate on **.NET projects** and **innovative cloud solutions**.  
+🌱 Currently, I’m diving deep into **Cloud Technologies**, **DevOps**, and **AI/ML**.  
+👯 I’m eager to collaborate on **AI Models** and **innovative cloud solutions**.  
 
 ---
 
