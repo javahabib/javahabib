@@ -1,6 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&pause=50&color=008080&center=true&vCenter=true&multiline=true&width=1400&height=200&lines=Hello+🌸!!+I+am+Javaria;A+final+year+student+in+Computer+Science;Passionate+about+technology+and+learning+new+things!" width="100%" />
 
- ![Cute GIF](https://media.giphy.com/media/l0HlH1YbT9xdFVwug/giphy.gif)
 
 🌟 Welcome to my GitHub profile!  
 🔭 I’m a **Computer Science Final Year Student**, working on **DevOps Tools**, **AWS**, and my **Final Year Project**.  
@@ -54,7 +53,6 @@
  ![SQL Logo](https://img.icons8.com/color/48/sql.png)
  ![YOLO Logo](https://img.icons8.com/ios/50/000000/yolo.png)
  ![Flask Logo](https://img.icons8.com/color/48/000000/flask.png)
- ![Tableau Logo](https://img.icons8.com/ios/50/000000/tableau.png)
 
  ![Git Logo](https://img.icons8.com/color/48/git.png)
  ![Jenkins Logo](https://img.icons8.com/color/48/jenkins.png)
@@ -63,8 +61,10 @@
  ![Terraform Logo](https://img.icons8.com/color/48/terraform.png)
  ![GitLab CI Logo](https://img.icons8.com/color/48/gitlab.png)
  ![AWS Logo](https://img.icons8.com/color/48/amazon-web-services.png)
- ![Pytorch Logo](https://img.icons8.com/ios/50/000000/pytorch.png)
- ![OpenCV Logo](https://img.icons8.com/ios/50/000000/opencv.png)
+![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tableau_Logo.svg/1200px-Tableau_Logo.svg.png)
+![PyTorch Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/PyTorch_logo.png)
+![OpenCV Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/OpenCV_Logo_2016.png)
+
 
 
 
