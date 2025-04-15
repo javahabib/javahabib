@@ -1,8 +1,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&pause=50&color=008080&center=true&vCenter=true&multiline=true&width=1400&height=200&lines=Hello+🌸!!+I+am+Javaria;A+final+year+student+in+Computer+Science;Passionate+about+technology+and+learning+new+things!" width="100%" />
 
 <div align="center">
-  <img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmViN2VqYXFlaHRtY3A4ZWoydXBvM20xaTBzZnhzYmp1eXlwb2t0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pDI2IJfULDjc4UJbeU/giphy.gif)" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmViN2VqYXFlaHRtY3A4ZWoydXBvM20xaTBzZnhzYmp1eXlwb2t0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pDI2IJfULDjc4UJbeU/giphy.gif" width="300" />
 </div>
+
 
 
 🌟 Welcome to my GitHub profile!  
@@ -65,9 +66,7 @@
  ![Terraform Logo](https://img.icons8.com/color/48/terraform.png)
  ![GitLab CI Logo](https://img.icons8.com/color/48/gitlab.png)
  ![AWS Logo](https://img.icons8.com/color/48/amazon-web-services.png)
- ![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tableau_Logo.svg/1200px-Tableau_Logo.svg.png)
- ![PyTorch Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/PyTorch_logo.png)
- ![OpenCV Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/OpenCV_Logo_2016.png)
+ 
 
 
 
