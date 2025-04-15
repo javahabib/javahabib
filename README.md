@@ -1,9 +1,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&pause=50&color=008080&center=true&vCenter=true&multiline=true&width=1400&height=200&lines=Hello+🌸!!+I+am+Javaria;A+final+year+student+in+Computer+Science;Passionate+about+technology+and+learning+new+things!" width="100%" />
 
+ ![Cute GIF](https://media.giphy.com/media/l0HlH1YbT9xdFVwug/giphy.gif)
+
 🌟 Welcome to my GitHub profile!  
 🔭 I’m a **Computer Science Final Year Student**, working on **DevOps Tools**, **AWS**, and my **Final Year Project**.  
-🌱 Currently, I’m diving deep into **Cloud Technologies**, **DevOps**, and **AI/ML**.  
-👯 I’m eager to collaborate on **AI Models** and **innovative cloud solutions**.  
+🌱 Currently, I’m diving deep into **Cloud Technologies**, **Generative AI**, and **Data Visualization**.  
+👯 I’m eager to collaborate on **AI Models** and **Data Analytics and Visulatizations**.  
 
 ---
 
@@ -17,7 +19,7 @@
 
 ## ✨ About Me
 - 💡 I'm a **Computer Science Final Year Student** passionate about solving real-world problems using technology.  
-- 🌐 My interests span across **DevOps**, **Cloud Technologies** , **AI-based solutions** and **.NET projects**.  
+- 🌐 My interests span across **Data Visulaization**, **Cloud Technologies and Devops** and **Generative Ai** .  
 - 🔭 Currently, I’m:  
   - Developing a **Smart Traffic Management System** as my **Final Year Project**, leveraging AI. 
   - Exploring **YOLO models** for enhanced object detection in real-time applications.  
@@ -42,19 +44,6 @@
   - **Terraform**: A mature tool with a declarative syntax (HCL), vast community support, and a large ecosystem of cloud providers. Known for its simplicity and reliable state management.  
   The blog provides examples, feature comparisons, and guidance to help readers decide which tool suits their needs.  
 
----
-
-## 🔧 DevOps Tools I've Learned
-| Tool          | Description                                                                          |
-|---------------|--------------------------------------------------------------------------------------|
-| **Git**       | Version control system for managing source code.                                    |
-| **Jenkins**   | Continuous integration and continuous deployment (CI/CD) tool.                      |
-| **Docker**    | Containerization tool for building and deploying applications.                      |
-| **Kubernetes**| Orchestration platform for managing containerized applications at scale.            |
-| **Terraform** | Infrastructure as Code (IaC) tool for provisioning and managing cloud resources.    |
-| **GitLab CI** | CI/CD tool integrated with GitLab for automating code delivery pipelines.           |
-
----
 ## 💻 Technologies I've Used
 
  ![C++ Logo](https://img.icons8.com/color/48/c-plus-plus-logo.png)
@@ -63,6 +52,9 @@
  ![HTML Logo](https://img.icons8.com/color/48/html-5.png)
  ![CSS Logo](https://img.icons8.com/color/48/css3.png)
  ![SQL Logo](https://img.icons8.com/color/48/sql.png)
+ ![YOLO Logo](https://img.icons8.com/ios/50/000000/yolo.png)
+ ![Flask Logo](https://img.icons8.com/color/48/000000/flask.png)
+ ![Tableau Logo](https://img.icons8.com/ios/50/000000/tableau.png)
 
  ![Git Logo](https://img.icons8.com/color/48/git.png)
  ![Jenkins Logo](https://img.icons8.com/color/48/jenkins.png)
@@ -71,6 +63,8 @@
  ![Terraform Logo](https://img.icons8.com/color/48/terraform.png)
  ![GitLab CI Logo](https://img.icons8.com/color/48/gitlab.png)
  ![AWS Logo](https://img.icons8.com/color/48/amazon-web-services.png)
+ ![Pytorch Logo](https://img.icons8.com/ios/50/000000/pytorch.png)
+ ![OpenCV Logo](https://img.icons8.com/ios/50/000000/opencv.png)
 
 
 
@@ -84,6 +78,7 @@
 ---
 
 ## 🚀 My Projects
+
 ### 🛒 Marketplace and Trade Service Microservice
 A MERN stack microservice for the **AgriLink project**, facilitating:  
 - **Product Listing**: Efficiently list and manage crop and livestock products.  
@@ -93,7 +88,19 @@ A MERN stack microservice for the **AgriLink project**, facilitating:
 ### 🚦 Smart Traffic Management System
 Leveraging **YOLO** for:  
 - **Vehicle Detection**: Analyzing CCTV footage to detect car density.  
-- **Dynamic Signal Scheduling**: Optimizing traffic flow and reducing congestion.  
+- **Dynamic Signal Scheduling**: Optimizing traffic flow and reducing congestion.
+   
+### 🤖 Generative AI Projects
+- Exploring **Generative AI** models that can create realistic content like text, images, and music.
+- These projects utilize advanced models to generate creative content based on existing datasets, with applications ranging from automated content creation to art generation.
+
+### 🖼️ CIFAR-10 Image Classification with CNN and RNN
+- Analyzing the **CIFAR-10** dataset using **Convolutional Neural Networks (CNN)** for image classification tasks.
+- Exploring **Recurrent Neural Networks (RNN)** for sequence learning and their applications in real-time data processing.
+
+### 📊 Apache Spark Data Pipeline Project
+- Building a **data pipeline** using **Apache Spark** for efficient processing and transformation of large-scale datasets.
+- Optimizing workflows for big data applications, including real-time data ingestion, processing, and storage.
 
 ---
 
