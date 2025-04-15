@@ -1,6 +1,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&pause=50&color=008080&center=true&vCenter=true&multiline=true&width=1400&height=200&lines=Hello+🌸!!+I+am+Javaria;A+final+year+student+in+Computer+Science;Passionate+about+technology+and+learning+new+things!" width="100%" />
 
-![Coffee Cup Animation](https://media.giphy.com/media/Jd7q6nHwr7XhK/giphy.gif)
+<div align="center">
+  <img src="https://assets7.lottiefiles.com/packages/lf20_Hrcv4p1xLa.json" width="300" />
+</div>
+
 
 
 
