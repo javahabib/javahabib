@@ -7,8 +7,7 @@
 
 
 🌟 Welcome to my GitHub profile!  
-🔭 I’m a **Computer Science Final Year Student**, working on **DevOps Tools**, **AWS**, and my **Final Year Project**.  
-🌱 Currently, I’m diving deep into **Cloud Technologies**, **Generative AI**, and **Data Visualization**.  
+🔭 I’m a **Software Engineer**, working on **Generative AI models**, **Data pipelines**, and my **Cloud Storage**.  
 👯 I’m eager to collaborate on **AI Models** and **Data Analytics and Visulatizations**.  
 
 ---
@@ -22,11 +21,8 @@
 ---
 
 ## ✨ About Me
-- 💡 I'm a **Computer Science Final Year Student** passionate about solving real-world problems using technology.  
-- 🌐 My interests span across **Data Visulaization**, **Cloud Technologies and Devops** and **Generative Ai** .  
-- 🔭 Currently, I’m:  
-  - Developing a **Smart Traffic Management System** as my **Final Year Project**, leveraging AI. 
-  - Exploring **YOLO models** for enhanced object detection in real-time applications.  
+- 💡 I'm a **Computer Scientist** passionate about solving real-world problems using technology.  
+- 🌐 My interests span across **Data Visulaization**, **Data pipelines** and **Generative Ai** .  
 - 💬 I enjoy collaborating on innovative projects and learning new technologies.  
 
 
@@ -60,10 +56,8 @@
  ![Flask Logo](https://img.icons8.com/color/48/000000/flask.png)
 
  ![Git Logo](https://img.icons8.com/color/48/git.png)
- ![Jenkins Logo](https://img.icons8.com/color/48/jenkins.png)
  ![Docker Logo](https://img.icons8.com/color/48/docker.png)
  ![Kubernetes Logo](https://img.icons8.com/color/48/kubernetes.png)
- ![Terraform Logo](https://img.icons8.com/color/48/terraform.png)
  ![GitLab CI Logo](https://img.icons8.com/color/48/gitlab.png)
  ![AWS Logo](https://img.icons8.com/color/48/amazon-web-services.png)
  
@@ -82,12 +76,6 @@
 
 ## 🚀 My Projects
 
-### 🛒 Marketplace and Trade Service Microservice
-A MERN stack microservice for the **AgriLink project**, facilitating:  
-- **Product Listing**: Efficiently list and manage crop and livestock products.  
-- **Search and Browse**: Advanced search for products by category or keywords.  
-- **Interaction with Other Microservices**: Includes user authentication, analytics, and financial transactions.  
-
 ### 🚦 Smart Traffic Management System
 Leveraging **YOLO** for:  
 - **Vehicle Detection**: Analyzing CCTV footage to detect car density.  
@@ -104,6 +92,12 @@ Leveraging **YOLO** for:
 ### 📊 Apache Spark Data Pipeline Project
 - Building a **data pipeline** using **Apache Spark** for efficient processing and transformation of large-scale datasets.
 - Optimizing workflows for big data applications, including real-time data ingestion, processing, and storage.
+
+### 🛒 Marketplace and Trade Service Microservice
+A MERN stack microservice for the **AgriLink project**, facilitating:  
+- **Product Listing**: Efficiently list and manage crop and livestock products.  
+- **Search and Browse**: Advanced search for products by category or keywords.  
+- **Interaction with Other Microservices**: Includes user authentication, analytics, and financial transactions.  
 
 ---
 
