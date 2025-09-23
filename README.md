@@ -7,7 +7,7 @@
 
 
 🌟 Welcome to my GitHub profile!  
-🔭 I’m a **Software Engineer**, working on **Generative AI models**, **Data pipelines**, and my **Cloud Storage**.  
+🔭 I’m a **Software Engineer**, working on **Generative AI models**, **Data pipelines**, and **Cloud Storage**.  
 👯 I’m eager to collaborate on **AI Models** and **Data Analytics and Visulatizations**.  
 
 ---
