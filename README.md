@@ -7,8 +7,8 @@
 
 
 🌟 Welcome to my GitHub profile!  
-🔭 I’m a **Software Engineer**, working on **Generative AI models**, **Data pipelines**, and **Cloud Storage**.  
-👯 I’m eager to collaborate on **AI Models** and **Data Analytics and Visulatizations**.  
+🔭 I’m a **Software Engineer**, working on **ETL Data pipelines**, **Generative AI models** and **Cloud Storage**.  
+👯 I’m eager to collaborate on **Data Automations**, **Data pipelines**, **AI Models** and **Data Analytics and Visulatizations**.  
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## ✨ About Me
 - 💡 I'm a **Computer Scientist** passionate about solving real-world problems using technology.  
-- 🌐 My interests span across **Data Visulaization**, **Data pipelines** and **Generative Ai** .  
+- 🌐 My interests span across **Data pipelines and automations**, **Data Visualization**,  and **Generative AI** .  
 - 💬 I enjoy collaborating on innovative projects and learning new technologies.  
 
 
